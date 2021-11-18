@@ -2,8 +2,7 @@
 
 ## 概述
 
-用于在 Heroku 上部署 vless+websocket+tls，每次部署自动选择最新的 alpine linux 和 xray core。  
-vless 相比 vmess 性能更加优秀，占用资源更少，运行更加稳定。
+
 
 ## 镜像
 
@@ -27,7 +26,7 @@ vless 相比 vmess 性能更加优秀，占用资源更少，运行更加稳定�
 
 ### UUID
 
-`UUID` 默认为 `3a53a3e5-da83-48d2-aee9-d88a498eb3dd` 可自行设置。
+`UUID` 默认为 `dbd673ee-0e52-4340-9a8e-12af906fefa8` 可自行设置。
 
 ## 流量中转
 
